@@ -9,7 +9,7 @@ This project has two parts: defining the database schema (SQL table definitions)
 ## Quick Start
 ### Software Requirements
 1. Python Version 2.7 - Refer to the [Beginners Guide](https://wiki.python.org/moin/BeginnersGuide/Download) for installation instructions
-2. pip Pachake Manager - Refer to this [installation guide](https://pip.pypa.io/en/stable/installing/)
+2. pip Package Manager - Refer to this [installation guide](https://pip.pypa.io/en/stable/installing/)
 3. PostgreSQL object-relational database management system - Refer to the [installation guide](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
 4. Psycopg2 wrapper for the libpq - Refer to the [installation guide](http://initd.org/psycopg/docs/install.html)
 
