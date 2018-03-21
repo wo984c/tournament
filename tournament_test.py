@@ -6,7 +6,7 @@
 # If you do add any of the extra credit options, be sure to add/modify these test cases
 # as appropriate to account for your module's added functionality.
 
-from tournament1 import *
+from tournament import *
 
 def testCount():
     """
